@@ -3,7 +3,7 @@ Stanford online course [cs193p2020](https://cs193p.sites.stanford.edu/) in swift
 
 My cs193p 2020 SwiftUI studying repository.
 
-Assignments solutions are seperated in folders.
+Assignments solutions are seperated in branches.
 
 
 ## Reference
